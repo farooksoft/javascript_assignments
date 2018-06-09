@@ -1,0 +1,42 @@
+{
+	"Literate without educational level": {
+		"level_of_edu": "Literate without educational level",
+		"total": 171670752
+	},
+	"Below Primary": {
+		"level_of_edu": "Below Primary",
+		"total": 751691352
+	},
+	"Primary": {
+		"level_of_edu": "Primary",
+		"total": 921147160
+	},
+	"Middle": {
+		"level_of_edu": "Middle",
+		"total": 660343812
+	},
+	"Matric/Secondary": {
+		"level_of_edu": "Matric/Secondary",
+		"total": 495879992
+	},
+	"Higher secondary/Intermediate/Pre-University/Senior secondary": {
+		"level_of_edu": "Higher secondary/Intermediate/Pre-University/Senior secondary",
+		"total": 360639156
+	},
+	"Non-technical diploma or certificate not equal to degree": {
+		"level_of_edu": "Non-technical diploma or certificate not equal to degree",
+		"total": 4651712
+	},
+	"Technical diploma or certificate not equal to degree": {
+		"level_of_edu": "Technical diploma or certificate not equal to degree",
+		"total": 33160332
+	},
+	"Graduate & above": {
+		"level_of_edu": "Graduate & above",
+		"total": 302381308
+	},
+	"Unclassified": {
+		"level_of_edu": "Unclassified",
+		"total": 15091552
+	}
+}

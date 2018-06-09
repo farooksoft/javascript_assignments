@@ -1,0 +1,110 @@
+{
+	"7": {
+		"age_group": "7",
+		"total_literate": 22818573
+	},
+	"8": {
+		"age_group": "8",
+		"total_literate": 29011421
+	},
+	"9": {
+		"age_group": "9",
+		"total_literate": 26565571
+	},
+	"10": {
+		"age_group": "10",
+		"total_literate": 34430703
+	},
+	"11": {
+		"age_group": "11",
+		"total_literate": 28806963
+	},
+	"12": {
+		"age_group": "12",
+		"total_literate": 32348816
+	},
+	"13": {
+		"age_group": "13",
+		"total_literate": 28387474
+	},
+	"14": {
+		"age_group": "14",
+		"total_literate": 29171219
+	},
+	"15": {
+		"age_group": "15",
+		"total_literate": 29325198
+	},
+	"16": {
+		"age_group": "16",
+		"total_literate": 27686321
+	},
+	"17": {
+		"age_group": "17",
+		"total_literate": 23886851
+	},
+	"18": {
+		"age_group": "18",
+		"total_literate": 30218875
+	},
+	"19": {
+		"age_group": "19",
+		"total_literate": 22621208
+	},
+	"20-24": {
+		"age_group": "20-24",
+		"total_literate": 114128000
+	},
+	"25-29": {
+		"age_group": "25-29",
+		"total_literate": 95741848
+	},
+	"30-34": {
+		"age_group": "30-34",
+		"total_literate": 77036519
+	},
+	"35-39": {
+		"age_group": "35-39",
+		"total_literate": 68243458
+	},
+	"40-44": {
+		"age_group": "40-44",
+		"total_literate": 53708523
+	},
+	"45-49": {
+		"age_group": "45-49",
+		"total_literate": 43357916
+	},
+	"50-54": {
+		"age_group": "50-54",
+		"total_literate": 32553475
+	},
+	"55-59": {
+		"age_group": "55-59",
+		"total_literate": 24557099
+	},
+	"60-64": {
+		"age_group": "60-64",
+		"total_literate": 20160842
+	},
+	"65-69": {
+		"age_group": "65-69",
+		"total_literate": 13193461
+	},
+	"70-74": {
+		"age_group": "70-74",
+		"total_literate": 8560705
+	},
+	"75-79": {
+		"age_group": "75-79",
+		"total_literate": 4263104
+	},
+	"80+": {
+		"age_group": "80+",
+		"total_literate": 4920189
+	},
+	"Age not stated": {
+		"age_group": "Age not stated",
+		"total_literate": 3459950
+	}
+}
